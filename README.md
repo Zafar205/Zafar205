@@ -1,16 +1,198 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Zafar205/Zafar205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Muhammad Zafar
 
-Here are some ideas to get you started:
+**Computer Engineering Student · Full Stack Developer · ERP / FinTech Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+```txt
+@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@
+@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@
+@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@
+@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@
+@@@@@@@%%%%%%%%%%%%%%%%%%########%%%%%%%%%%%%%%%%%%%@@@@@@
+@@@@%%%%%%%%%%%%%%%%%#***##**++++*#%%%%%%%%%%%%%%%%%%@@@@
+@@@%%%%%%%%%%%%%%%#*++*###%%%%%%%%##%%%%%%%%%%%%%%%%%%@@@
+@@@%%%%%%%%%%%%%%##%%%%@@@@@@@@@@%%%%#%%%%%%%%%%%%%%%%@@@
+@@%%%%%%%%%%%%%%##%%%@@@@@@@@@@@@@@@@%%#%%%%%%%%%%%%%%@@
+@@%%%%%%%%%%%%%###%%##%%@%%####%%@@@@%%#%%%%%%%%%%%%%%@@
+%%%%%%%%%%%%%%####%#******++++++**#%@@%##%%%%%%%%%%%%%%%
+%%%%%%%%%%%%########%#==++++++++++*#%@%###%%%%%%%%%%%%%%
+%%%%%%%%%%%########**+:-=++++====++*#%%####%%%%%%%%%%%%%
+%%%%%%%%%%#########*+::=++++=====++**%%#####%%%%%%%%%%%%
+%%%%%%%%%##########*::+%%%%#*++*#%%%#*%#####%%%%%%%%%%%
+%%%%%%%%############+=**+++=+++=+*++**########%%%%%%%%%%
+%%%%%%%###########=+*+*####%**##*####*+*######%%%%%%%%%%
+%%%%%%%##########***-:=++*##**#**###*++*######%%%%%%%%%%
+%%%%%%############**-:-=++++++++++++++**#######%%%%%%%%%
+%%%%%#############***=:=+++==++=====+***########%%%%%%%%
+%%%%#############****+:-+++==++++====+***#######%%%%%%%%
+%%%%###########******+=-=+++==*##*+==+****######%%%%%%%%
+%%%%##########********=-+**++++****+++*****#####%%%%%%%%
+%%%%##########*********=+********+**++*****#####%%%%%%%%
+%%%%##########*********++****##%%###*******#####%%%%%%%%
+%%%%###########**********=+*##************######%%%%%%%%
+%%%%%##########**********=+********++++***######%%%%%%%%
+%%%%%%#########********+-=*******++++++**#######%%%%%%%%
+%%%%%%###########******-==*#############**######%%%%%%%%
+%%%%%%%###########****--=#=+**#########**+*####%%%%%%%%%
+%%%%%%%%#########*+==-:-=*##****#####***#*+==*%%%%%%%%%%
+%%%%%%%%%%#####+--====--=+####********##*++----=*%%%%%%%
+@@%%%%%%%%#*+===--==-==-==+#####****###*+***=-----+#%%%@
+@@%%%%%#=---===--====-==++**###****####******=------=#%@@
+@@@%%*===+======-======+=+%%%********%%%****++==--====#@@
+@@@@#==++++=++=-++===++++#%%%##*+++##%%%#**++++====+++#@@
+@@@#=++=*++++**++=====+++++*******#******++++++==+***+#@@
+@@%+++***+****#*+++==+++++++*************+++++++++****#@@
+@@*+**+*####**###****+++++++*************++++***++****#@@
+@%+****###*########*******+++*******************####***%@
+@#*##**##*****########***********************#*####***#%@
+%**####********########********************#***####***##%
+%**########*****#########********************###########%
+%***############################***####******#####%#####%
+%****####**#########%%######################**##########%
+```
+
+</td>
+<td width="55%" valign="top">
+
+```txt
+zafar@github
+────────────────────────────────────────────
+
+OS ................ macOS, Linux
+University ........ Habib University
+Degree ............ Computer Engineering
+Graduation ........ 2027
+
+Languages
+Programming ....... Go, Python, JavaScript, C++
+Frontend .......... React, Next.js, Tailwind CSS
+Backend ........... Go, Django, Node.js
+Database .......... PostgreSQL, MySQL
+
+Tools
+Dev Tools ......... Git, GitHub, Docker, Linux
+UI ................ shadcn/ui, GSAP, Framer Motion
+Frameworks ........ Next.js, Django, Node.js
+
+Focus
+Software .......... Full Stack Engineering
+Business .......... ERP Systems, FinTech
+AI ................ RAG, LLM Applications
+
+Currently
+Building .......... Real-world software products
+Learning .......... Backend Engineering, System Design
+```
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## About Me
+
+I am a Computer Engineering student at **Habib University** and an aspiring **Full Stack Engineer**.  
+I like building practical software systems, especially products related to **ERP, FinTech, business automation, dashboards, and AI-powered applications**.
+
+My current focus is improving my backend engineering, system design, database design, and full-stack product development skills.
+
+<br />
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,js,ts,cpp" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,django,postgres,mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+<br />
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zafar205&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zafar205&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<br />
+
+## Current Focus
+
+```txt
+Backend Engineering    ████████████████████░░░░
+Full Stack Projects    ███████████████████░░░░░
+System Design          ███████████████░░░░░░░░░
+Database Design        ████████████████░░░░░░░░
+AI Applications        █████████████░░░░░░░░░░░
+```
+
+<br />
+
+## Projects I Like Building
+
+```txt
+• ERP and business management systems
+• Finance and accounting dashboards
+• Inventory and sales management systems
+• AI-powered web applications
+• SaaS-style full-stack products
+• Portfolio and landing page websites
+```
+
+<br />
+
+## Connect
+
+<p>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-2f81f7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-2f81f7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Zafar205">
+    <img src="https://img.shields.io/badge/GitHub-Zafar205-2f81f7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br />
+
+<div align="center">
+
+```txt
+Building software that solves real business problems.
+```
+
+</div>
