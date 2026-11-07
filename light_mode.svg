@@ -28,14 +28,13 @@
   <text x="566" y="310" class="label">Focus</text><text x="720" y="310" class="value">ERP, FinTech, SaaS</text>
   <text x="566" y="352" class="label">Stack</text><text x="720" y="352" class="value">TypeScript, Python, React, Next.js</text>
   <text x="720" y="381" class="muted">Node.js, PostgreSQL, Docker</text>
-  <text x="566" y="428" class="section">What I build</text>
+  <text x="566" y="428" class="section">Contact</text>
   <path d="M566 444h711" stroke="#d0d7de" />
-  <text x="566" y="481" class="value">Business software and dashboards</text>
-  <text x="566" y="518" class="value">Full stack products and automation</text>
-  <text x="566" y="555" class="value">Practical systems for real problems</text>
-  <text x="566" y="608" class="section">Find me</text>
-  <path d="M566 624h711" stroke="#d0d7de" />
-  <text x="566" y="662" class="label">GitHub</text><text x="720" y="662" class="value">github.com/Zafar205</text>
-  <text x="566" y="701" class="label">Repos</text><text x="720" y="701" class="value">86 public  ·  4 followers</text>
+  <text x="566" y="480" class="label">Website</text><text x="720" y="480" class="value">portfolio-zafar.vercel.app</text>
+  <text x="566" y="523" class="label">LinkedIn</text><text x="720" y="523" class="value">linkedin.com/in/zafar2062005</text>
+  <text x="566" y="566" class="label">X</text><text x="720" y="566" class="value">@Zafar205</text>
+  <text x="566" y="609" class="label">Phone</text><text x="720" y="609" class="value">+92 326 5908446</text>
+  <text x="566" y="652" class="label">WhatsApp</text><text x="720" y="652" class="value">+92 326 5908446</text>
+  <text x="566" y="695" class="label">GitHub</text><text x="720" y="695" class="value">github.com/Zafar205</text>
   <rect x="0.5" y="0.5" width="1316" height="727" rx="8" fill="none" stroke="#d0d7de" />
 </svg>

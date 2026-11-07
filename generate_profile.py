@@ -52,15 +52,14 @@ def card(dark: bool) -> str:
   {line(310, 'Focus', 'ERP, FinTech, SaaS')}
   {line(352, 'Stack', 'TypeScript, Python, React, Next.js')}
   <text x="720" y="381" class="muted">Node.js, PostgreSQL, Docker</text>
-  <text x="566" y="428" class="section">What I build</text>
+  <text x="566" y="428" class="section">Contact</text>
   <path d="M566 444h711" stroke="{border}" />
-  <text x="566" y="481" class="value">Business software and dashboards</text>
-  <text x="566" y="518" class="value">Full stack products and automation</text>
-  <text x="566" y="555" class="value">Practical systems for real problems</text>
-  <text x="566" y="608" class="section">Find me</text>
-  <path d="M566 624h711" stroke="{border}" />
-  {line(662, 'GitHub', 'github.com/Zafar205')}
-  {line(701, 'Repos', '86 public  ·  4 followers')}
+  {line(480, 'Website', 'portfolio-zafar.vercel.app')}
+  {line(523, 'LinkedIn', 'linkedin.com/in/zafar2062005')}
+  {line(566, 'X', '@Zafar205')}
+  {line(609, 'Phone', '+92 326 5908446')}
+  {line(652, 'WhatsApp', '+92 326 5908446')}
+  {line(695, 'GitHub', 'github.com/Zafar205')}
   <rect x="0.5" y="0.5" width="1316" height="727" rx="8" fill="none" stroke="{border}" />
 </svg>
 '''
