@@ -59,6 +59,7 @@ def card(dark: bool) -> str:
   {line(566, 'X', '@Zafar205', 790)}
   {line(609, 'Phone / WhatsApp', '+92 326 5908446', 790)}
   {line(652, 'GitHub', 'github.com/Zafar205', 790)}
+  {line(695, 'Email', 'mohamedalzafar@gmail.com', 790)}
   <rect x="0.5" y="0.5" width="1316" height="727" rx="8" fill="none" stroke="{border}" />
 </svg>
 '''
