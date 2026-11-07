@@ -16,10 +16,10 @@ def card(dark: bool) -> str:
         ("#f6f8fa", "#24292f", "#57606a", "#0969da", "#9a6700", "#d0d7de")
     )
 
-    def line(y: int, name: str, value: str) -> str:
+    def line(y: int, name: str, value: str, value_x: int = 720) -> str:
         return (
             f'<text x="566" y="{y}" class="label">{escape(name)}</text>'
-            f'<text x="720" y="{y}" class="value">{escape(value)}</text>'
+            f'<text x="{value_x}" y="{y}" class="value">{escape(value)}</text>'
         )
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1317" height="728" viewBox="0 0 1317 728" role="img" aria-labelledby="title desc">
@@ -54,12 +54,11 @@ def card(dark: bool) -> str:
   <text x="720" y="381" class="muted">Node.js, PostgreSQL, Docker</text>
   <text x="566" y="428" class="section">Contact</text>
   <path d="M566 444h711" stroke="{border}" />
-  {line(480, 'Website', 'zafar.business')}
-  {line(523, 'LinkedIn', 'linkedin.com/in/zafar2062005')}
-  {line(566, 'X', '@Zafar205')}
-  {line(609, 'Phone', '+92 326 5908446')}
-  {line(652, 'WhatsApp', '+92 326 5908446')}
-  {line(695, 'GitHub', 'github.com/Zafar205')}
+  {line(480, 'Website', 'zafar.business', 790)}
+  {line(523, 'LinkedIn', 'linkedin.com/in/zafar2062005', 790)}
+  {line(566, 'X', '@Zafar205', 790)}
+  {line(609, 'Phone / WhatsApp', '+92 326 5908446', 790)}
+  {line(652, 'GitHub', 'github.com/Zafar205', 790)}
   <rect x="0.5" y="0.5" width="1316" height="727" rx="8" fill="none" stroke="{border}" />
 </svg>
 '''
