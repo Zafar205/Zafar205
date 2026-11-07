@@ -54,7 +54,7 @@ def card(dark: bool) -> str:
   <text x="720" y="381" class="muted">Node.js, PostgreSQL, Docker</text>
   <text x="566" y="428" class="section">Contact</text>
   <path d="M566 444h711" stroke="{border}" />
-  {line(480, 'Website', 'portfolio-zafar.vercel.app')}
+  {line(480, 'Website', 'zafar.business')}
   {line(523, 'LinkedIn', 'linkedin.com/in/zafar2062005')}
   {line(566, 'X', '@Zafar205')}
   {line(609, 'Phone', '+92 326 5908446')}
